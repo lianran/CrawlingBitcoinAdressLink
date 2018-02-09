@@ -2,9 +2,8 @@
 
 #### Download the bitcoin block files
 
-Maybe you can download the bitcoin block files with the bitcoin client, or you can download the blcok files through the bt, find the files from the internet?
+Maybe you can download the bitcoin block files with the bitcoin client, or you can download the blcok files through the [bt](https://getbitcoinblockchain.com/), find the files from the internet?
 
-	some website links? to donwload the block files
 	
 
 So you will get the block files named blkxxxxx.dat, the xxxxx is the number from 00001 to 01000 mabye.
